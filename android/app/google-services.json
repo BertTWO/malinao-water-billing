@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "805411249522",
+    "project_id": "water-billing-system-c41a3",
+    "storage_bucket": "water-billing-system-c41a3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805411249522:android:388291264f7572615a91eb",
+        "android_client_info": {
+          "package_name": "com.example.malinaowaterbilling"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJFzYJHDdZuGbxWY8heFCqMQAw10IPoyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
