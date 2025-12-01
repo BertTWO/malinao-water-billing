@@ -17,11 +17,6 @@ cd malinao-water-billing
 flutter pub get
 ```
 
-3. Configure Firebase:
-
-* Add `google-services.json` (Android) or `GoogleService-Info.plist` (iOS)
-* Enable Firebase Auth and Firestore
-
 4. Run the app:
 
 ```
